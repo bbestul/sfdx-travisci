@@ -21,6 +21,10 @@
 		<name>AuraDefinitionBundle</name>
 	</types>
 	<types>
+		<members>*</members>
+		<name>AuthProvider</name>
+	</types>
+	<types>
 		<members>NEW_ACCOUNT__c</members>
 		<name>CustomObject</name>
 	</types>
